@@ -36,6 +36,10 @@
   .combo-info    { padding: 40px 32px; }
 
   .benefits-grid { grid-template-columns: repeat(2, 1fr); }
+
+  .about-grid { grid-template-columns: 1fr; gap: 40px; }
+  .about-content .section-label { justify-content: center; }
+  .about-content .section-title { text-align: center; }
 }
 
 /* ── Mobile landscape (≤ 768px) ── */
@@ -75,6 +79,11 @@
     max-width: 480px;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .about-image { 
+    max-width: 480px; 
+    margin: 0 auto; 
   }
 
   .trust-items     { gap: 24px; }
