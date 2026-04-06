@@ -6,7 +6,7 @@
 /* ── Hero ── */
 .hero {
   position: relative;
-  padding: 80px 0 60px;
+  padding: 50px 0 40px;
   overflow: hidden;
   min-height: 85vh;
   display: flex;
@@ -218,7 +218,7 @@
 
 /* ── Problems ── */
 .problems {
-  padding: 100px 0;
+  padding: 60px 0;
   background: var(--navy);
   position: relative;
 }
@@ -243,7 +243,7 @@
 
 /* ── Products ── */
 .products {
-  padding: 100px 0;
+  padding: 60px 0;
   background: linear-gradient(180deg, var(--deep-blue), var(--navy));
   position: relative;
 }
@@ -257,7 +257,7 @@
 
 /* ── Combo ── */
 .combo {
-  padding: 100px 0;
+  padding: 60px 0;
   background: var(--navy);
   position: relative;
   overflow: hidden;
@@ -469,7 +469,7 @@
 
 /* ── Benefits ── */
 .benefits {
-  padding: 100px 0;
+  padding: 60px 0;
   background: linear-gradient(180deg, var(--deep-blue), var(--navy));
 }
 
@@ -481,7 +481,7 @@
 
 /* ── Testimonials ── */
 .testimonials {
-  padding: 100px 0;
+  padding: 60px 0;
   background: var(--navy);
 }
 
@@ -493,7 +493,7 @@
 
 /* ── Transformations (Social Proof) ── */
 .transformations {
-  padding: 100px 0;
+  padding: 60px 0;
   background: linear-gradient(180deg, var(--navy), var(--deep-blue));
   position: relative;
   overflow: hidden;
@@ -587,19 +587,19 @@
 
 /* ── Guarantee ── */
 .guarantee {
-  padding: 80px 0;
+  padding: 50px 0;
   background: linear-gradient(180deg, var(--deep-blue), var(--navy));
 }
 
 /* ── FAQ ── */
 .faq {
-  padding: 100px 0;
+  padding: 60px 0;
   background: var(--navy);
 }
 
 /* ── Final CTA ── */
 .final-cta {
-  padding: 100px 0;
+  padding: 60px 0;
   background: linear-gradient(180deg, var(--deep-blue), var(--navy));
   text-align: center;
   position: relative;
