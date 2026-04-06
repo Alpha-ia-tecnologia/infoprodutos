@@ -105,15 +105,15 @@
 }
 
 .nav-cta {
-  background: linear-gradient(135deg, var(--gold), var(--gold-dark));
-  color: var(--navy) !important;
+  background: linear-gradient(135deg, var(--green), var(--green-dark));
+  color: #fff !important;
   padding: 10px 24px;
   border-radius: var(--radius-sm);
   font-weight: 700 !important;
   font-size: 0.85rem !important;
   letter-spacing: 0.5px;
   transition: var(--transition) !important;
-  box-shadow: 0 4px 15px rgba(240, 184, 50, 0.3);
+  box-shadow: 0 4px 15px rgba(46, 204, 113, 0.3);
 }
 
 .nav-cta::after {
@@ -122,7 +122,7 @@
 
 .nav-cta:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 25px rgba(240, 184, 50, 0.45) !important;
+  box-shadow: 0 6px 25px rgba(46, 204, 113, 0.45) !important;
 }
 
 /* ── Hamburger ── */
@@ -183,15 +183,15 @@
 
 /* ── Buttons ── */
 .btn-primary {
-  background: linear-gradient(135deg, var(--gold), var(--gold-dark));
-  color: var(--navy);
+  background: linear-gradient(135deg, var(--green), var(--green-dark));
+  color: #fff;
   padding: 16px 36px;
   border-radius: var(--radius-sm);
   font-size: 1rem;
   font-weight: 700;
   letter-spacing: 0.5px;
   transition: var(--transition);
-  box-shadow: 0 4px 20px rgba(240, 184, 50, 0.35);
+  box-shadow: 0 4px 20px rgba(46, 204, 113, 0.35);
   display: inline-flex;
   align-items: center;
   gap: 8px;
@@ -199,7 +199,7 @@
 
 .btn-primary:hover {
   transform: translateY(-3px);
-  box-shadow: 0 8px 35px rgba(240, 184, 50, 0.5);
+  box-shadow: 0 8px 35px rgba(46, 204, 113, 0.5);
 }
 
 .btn-secondary {
@@ -235,14 +235,14 @@
 }
 
 .btn-product-primary {
-  background: linear-gradient(135deg, var(--gold), var(--gold-dark));
-  color: var(--navy);
-  box-shadow: 0 4px 15px rgba(240, 184, 50, 0.3);
+  background: linear-gradient(135deg, var(--green), var(--green-dark));
+  color: #fff;
+  box-shadow: 0 4px 15px rgba(46, 204, 113, 0.3);
 }
 
 .btn-product-primary:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 25px rgba(240, 184, 50, 0.45);
+  box-shadow: 0 6px 25px rgba(46, 204, 113, 0.45);
 }
 
 .btn-product-secondary {
@@ -261,20 +261,20 @@
   display: block;
   width: 100%;
   padding: 18px;
-  background: linear-gradient(135deg, var(--gold), var(--gold-dark));
-  color: var(--navy);
+  background: linear-gradient(135deg, var(--green), var(--green-dark));
+  color: #fff;
   font-size: 1.05rem;
   font-weight: 800;
   border-radius: var(--radius-sm);
   text-align: center;
   transition: var(--transition);
-  box-shadow: 0 6px 25px rgba(240, 184, 50, 0.35);
+  box-shadow: 0 6px 25px rgba(46, 204, 113, 0.35);
   letter-spacing: 0.5px;
 }
 
 .btn-combo:hover {
   transform: translateY(-3px);
-  box-shadow: 0 10px 40px rgba(240, 184, 50, 0.5);
+  box-shadow: 0 10px 40px rgba(46, 204, 113, 0.5);
 }
 
 /* ── Trust Bar ── */
